@@ -14,9 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a graphic designer out of college.
+      I’m a Graphic Designer out of college.
     subtitle: >-
-      I graduated with a Bacelor's in Fine Arts from SUNY Purchase. I am currently looking for a full time job and freelance work.
+      I graduated with a Bachelor's in Fine Arts from SUNY Purchase. I am currently looking for a full time job and freelance work.
     styles:
       self:
         height: auto
